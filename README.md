@@ -12,7 +12,7 @@ Aquí puedes ver la imagen del modelo que se utilizó como referencia:
 
 A continuación, se muestra la imagen del resultado codificado:
 
-![Resultado Codificado](assets/screenshot/nuevosBloques.png)
+![Resultado Codificado](assets/screenshot/nuevosBloques.PNG)
 
 ## Estructura del Proyecto
 
